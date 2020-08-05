@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Linux , Python, Flutter, OpenCv**
+- 💬 Ask me about **Linux , Python, Flutter, OpenCV**
 
 - 📫 How to reach me **manan2000gadwal@gmail.com**
 
