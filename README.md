@@ -19,6 +19,6 @@
 
 
 
-<p>
+<p align="centre">
 <a href="https://www.linkedin.com/in/manan-gadwal-4b873b192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manan gadwal" height="20" width="20" /></a></p>
 
