@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Gadwal</h1>
-<h3 align="center">Graphics Designer , Flutter Developer , Web Developer
+<h3 align="center">Graphics Designer , Flutter Developer , Web Developer 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manangadwal/manangadwal/master/gif3.gif" width="400"/>
 </h3>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Linux , Python, Flutter, OpenCV**
+- 💬 Ask me about **Linux , Python, Flutter, OpenCV, C++**
 
 - 📫 How to reach me **manan2000gadwal@gmail.com**
 
