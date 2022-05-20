@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [Manan.Resume](https://drive.google.com/file/d/1jR16IjNmCwH9I5ONo88dI1oUr55O718Z/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
