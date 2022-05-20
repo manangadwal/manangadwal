@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Gadwal</h1>
 <h3 align="center">Graphics Designer , Flutter Developer , Web Developer 
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/manangadwal/manangadwal/master/gif3.gif" width="400"/>
-</h3>
+
 
 
 
