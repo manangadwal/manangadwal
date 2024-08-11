@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **manan2000gadwal@gmail.com**
 
-- 📄 Know about my experiences [Manan.Resume](https://drive.google.com/file/d/1jR16IjNmCwH9I5ONo88dI1oUr55O718Z/view?usp=sharing)
 
 <p align="left">
 </p>
