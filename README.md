@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Gadwal</h1>
-<h3 align="center">A passionate frontend developer from IndI am an experienced software developer with 6 years of expertise in mobile and full-stack development, focusing on creating seamless, high-performance cross-platform applications. My deep understanding of computer science fundamentals, coupled with my proficiency in a wide range of modern development frameworks and tools, allows me to deliver exceptional results across various platforms.ia</h3>
+<h3 align="center">I am an experienced software developer with 6 years of expertise in mobile and full-stack development, focusing on creating seamless, high-performance cross-platform applications. My deep understanding of computer science fundamentals, coupled with my proficiency in a wide range of modern development frameworks and tools, allows me to deliver exceptional results across various platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manangadwal&label=Profile%20views&color=0e75b6&style=flat" alt="manangadwal" /> </p>
 
