@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manangadwal" alt="manangadwal" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, React js**
+- 🌱 I’m currently learning **Node.js, React js, Swift UI**
 
 - 📫 How to reach me **manangadwal@gmail.com**
 
